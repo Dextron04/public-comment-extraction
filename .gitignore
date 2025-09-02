@@ -9,6 +9,9 @@ dexenv/
 # Minutes folder
 minutes/
 
+# PDF files
+*.pdf
+
 # Python cache
 __pycache__/
 *.pyc
